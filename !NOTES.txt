@@ -1,6 +1,8 @@
 https://www.youtube.com/watch?v=D9CLhQdLp8w&ab_channel=ShawhinTalebi
 https://github.com/ShawhinT/example-portfolio
 
+
+
 theme -
 https://pages.github.com/themes/
 https://github.com/pages-themes/
@@ -10,3 +12,9 @@ https://shawhint.github.io/example-portfolio/
 
 hasil -
 https://devilbats011.github.io/
+
+
+-- -- --
+
+Resume Tips -
+https://www.youtube.com/watch?v=gp29_P3_lgo&t=0s&ab_channel=ShawhinTalebi
