@@ -25,6 +25,9 @@
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
 ## Project Involved
-| Project                                                 | Client                  | Scope         |
-|:-------------                                           |:-------------           |:------------- |
-| Upgrading Workshop at Electric Power Station in Pergau  | Tenaga Nasional Berhad  | Building      |
+| Project      | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
