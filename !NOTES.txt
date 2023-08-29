@@ -1,15 +1,13 @@
 https://www.youtube.com/watch?v=D9CLhQdLp8w&ab_channel=ShawhinTalebi
 https://github.com/ShawhinT/example-portfolio
 
-
-
 theme -
 https://pages.github.com/themes/
 https://github.com/pages-themes/
 
 
 example - 
-Official example: https://github.com/pages-themes/minimal/blob/master/index.md?plain=1
+Official example: https://github.com/pages-themes/minimal/blob/master/index.md?plain=1 , mcm x leh pakai semua ...
 https://shawhint.github.io/example-portfolio/
 
 hasil -
