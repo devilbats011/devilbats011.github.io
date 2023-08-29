@@ -14,14 +14,17 @@
 - **Language:** Malay & English							       		
 
 ## Work Experience
-**Head of Engineering Department @ WANZA Consulting Engineers Sdn Bhd (_Jun 2018 - Present_)**
+- **Head of Engineering Department @ WANZA Consulting Engineers Sdn Bhd (_Jun 2018 - Present_)**
 
-**Design Engineer @ WANZA Consulting Engineers Sdn Bhd (_Jun 2014 - Present_)**
+- **Design Engineer @ WANZA Consulting Engineers Sdn Bhd (_Jun 2014 - Present_)**
 
-**Assistant Engineer @ WCE Consulting Engineers Sdn Bhd (_Jun 2012 - April 2012)**
+- **Assistant Engineer @ WCE Consulting Engineers Sdn Bhd (_Jun 2012 - April 2012)**
 
 ## Project Involved
 - **Project** | Upgrading Workshop at Electric Power Station in Pergau						       		
 - **Client** | Tenaga Nasional Berhad 			        		
 - **Scope** | Building
+
+* * *
+
 
