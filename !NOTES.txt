@@ -7,7 +7,9 @@ theme -
 https://pages.github.com/themes/
 https://github.com/pages-themes/
 
+
 example - 
+Official example: https://github.com/pages-themes/minimal/blob/master/index.md?plain=1
 https://shawhint.github.io/example-portfolio/
 
 hasil -
